@@ -2,6 +2,8 @@
 
 This file is the template for the first lab in Ashesi Web Development 2020.
 
+# Nana Ekow Baah Korsah
+
 ## Contents of my lab file
 
 This repository contains a single file, a script for gathering the basic configuration of the user from bash.
