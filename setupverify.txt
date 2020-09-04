@@ -1,0 +1,14 @@
+user
+ekowkorsah
+GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin19)
+Copyright (C) 2007 Free Software Foundation, Inc.
+vs code version info
+git version 2.24.3 (Apple Git-128)
+git user name
+Ekow Korsah
+git user email
+kookorsah@gmail.com
+node version
+v12.18.2
+npm version
+6.14.7
