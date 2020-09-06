@@ -1,0 +1,126 @@
+
+*{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+body{
+    margin-bottom: 50px;
+}
+
+.header{
+    margin-top: 20px;
+    text-align: right;
+    font-size: 20px;  
+}
+
+.header > a{
+    padding-right: 30px;
+    color: #853fee
+}
+
+.course{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+.first-course{
+    /* margin-top: 30px; */
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    /* background-color: darkgrey; */
+}
+
+.first-course > img{
+    width:450px;
+    margin-left: 100px;
+}
+
+.first-course > p{
+    padding-top: 20px;
+    margin-left: 70px;
+    margin-right: 90px;
+    font-size: 25px;
+}
+
+.first-course > p > button{
+    padding-top: 10px;
+    margin-left: -8px;
+    font-size: 15px !important;
+    display: flex;
+    background: transparent;
+    border-radius: 0px;
+    border: none;
+    font-size: large;
+    text-transform: uppercase;
+    color: rgb(109, 141, 230);
+    outline: none;
+    cursor: pointer;
+}
+
+.second-course{
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    /* background-color: lightgray; */
+}
+
+.second-course > img{
+    width:450px;
+    margin-right: 90px;
+}
+
+.second-course > p{
+    padding-top: 20px;
+    margin-left: 100px;
+    margin-right:90px;
+    font-size: 25px;
+}
+
+.second-course > p > button {
+    padding-top: 10px;
+    margin-left: -8px;
+    font-size: 15px !important;
+    display: flex;
+    background: transparent;
+    border-radius: 0px;
+    border: none;
+    font-size: large;
+    text-transform: uppercase;
+    color: rgb(109, 141, 230);
+    outline: none;
+    cursor: pointer;
+}
+
+
+.social h5{
+    font: normal 500 23px/30px;
+}
+
+.social a > i{
+    font-size: 22px;
+    padding: 2rem;
+    color:red ;
+}
+
+.social a:hover > i{
+    color: linear-gradient(90deg,#4458dc 0%, #853fee 100%);
+}
+
+.social, .para{
+    text-align: center;
+}
+
+.second-coding{
+    display: flex;
+    margin-left: 285px;
+}
+
